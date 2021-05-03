@@ -2,7 +2,7 @@ name: flutter_plugin1
 description: A new Flutter plugin.
 version: 0.0.1
 author: 自由<852470976@qq.com>
-homepage: https://github.com/lijingguo987/LXPlugin
+homepage: https://github.com/lijingguo987/LXPlugin.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
